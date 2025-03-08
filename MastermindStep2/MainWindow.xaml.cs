@@ -19,6 +19,8 @@ namespace MastermindStep2
         public MainWindow()
         {
             InitializeComponent();
+            string exePath = AppDomain.CurrentDomain.BaseDirectory;
+            imgPascal.Source = new BitmapImage(new Uri(System.IO.Path.Combine(exePath, "../../../Immagini/imgPascal.png"), UriKind.Absolute));
         }
 
         private void Button_Click_GiocaOra(object sender, RoutedEventArgs e)
@@ -28,7 +30,9 @@ namespace MastermindStep2
 
         private void Button_Click_Regole(object sender, RoutedEventArgs e)
         {
+            Regole regole = new Regole();
             Close();
+            regole.Show();
         }
 
         private void Button_Click_Esci(object sender, RoutedEventArgs e)

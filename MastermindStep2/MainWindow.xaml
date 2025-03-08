@@ -57,8 +57,8 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Image Margin="698,366,0,0" Source="/Image1.png" Stretch="Fill"/>
-        <Button x:Name="btnProfilo" Content="" HorizontalAlignment="Left" Margin="10,380,0,0" VerticalAlignment="Top" Height="49" Width="50" Background="#FFD6D6D6" />
+        <Image x:Name="imgPascal" Margin="698,366,0,0" Source="Immagini/ImgPascal.png" Stretch="Fill"/>
+        <Button x:Name="btnProfilo" Content="" HorizontalAlignment="Left" Margin="10,380,0,0" VerticalAlignment="Top" Height="49" Width="50" Background="#FFD6D6D6"/>
         <Ellipse x:Name="testaOmino" HorizontalAlignment="Left" Height="22" Margin="24,386,0,0" Stroke="#FF828282" VerticalAlignment="Top" Width="22" RenderTransformOrigin="-0.195,0.915" Fill="#FF848484"/>
         <Ellipse x:Name ="corpoOmino" HorizontalAlignment="Left" Height="35" Margin="10,408,0,0" Stroke="#FF868686" VerticalAlignment="Top" Width="50" Fill="#FF848484"/>
         <Rectangle x:Name="rctSottoOmino" HorizontalAlignment="Left" Height="10" Margin="0,424,0,0" VerticalAlignment="Top" Width="100" Fill="#FFCAE9EF"/>

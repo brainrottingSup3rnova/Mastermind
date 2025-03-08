@@ -22,3 +22,15 @@ C:\Users\anna.tassinari\Desktop\jbdj\MasterMind\MastermindStep2\MastermindLibrar
 C:\Users\anna.tassinari\Desktop\jbdj\MasterMind\MastermindStep2\MastermindLibrary\obj\Debug\net8.0\refint\MastermindLibrary.dll
 C:\Users\anna.tassinari\Desktop\jbdj\MasterMind\MastermindStep2\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.pdb
 C:\Users\anna.tassinari\Desktop\jbdj\MasterMind\MastermindStep2\MastermindLibrary\obj\Debug\net8.0\ref\MastermindLibrary.dll
+C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindLibrary\bin\Debug\net8.0\MastermindLibrary.deps.json
+C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindLibrary\bin\Debug\net8.0\MastermindLibrary.dll
+C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindLibrary\bin\Debug\net8.0\MastermindLibrary.pdb
+C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.AssemblyInfoInputs.cache
+C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.AssemblyInfo.cs
+C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.csproj.CoreCompileInputs.cache
+C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.sourcelink.json
+C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.dll
+C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindLibrary\obj\Debug\net8.0\refint\MastermindLibrary.dll
+C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.pdb
+C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindLibrary\obj\Debug\net8.0\ref\MastermindLibrary.dll

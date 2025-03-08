@@ -6,9 +6,35 @@
         xmlns:local="clr-namespace:MastermindStep2"
         mc:Ignorable="d"
         Title="Sconfitta" Height="450" Width="800">
-    <Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="89,83,0,0" TextWrapping="Wrap" Text="CHE PECCATO!" VerticalAlignment="Top" FontSize="48" FontFamily="Bernard MT Condensed"/>
-        <TextBlock HorizontalAlignment="Left" Margin="109,165,0,0" TextWrapping="Wrap" Text="HAI PERSO :(" VerticalAlignment="Top" FontSize="48" FontFamily="Bernard MT Condensed"/>
+    <Grid Background="#FFCAE9EF">
+        <TextBlock HorizontalAlignment="Center" Margin="0,83,0,0" TextWrapping="Wrap" Text="CHE PECCATO!" VerticalAlignment="Top" FontSize="90" FontFamily ="Bahnschrift SemiBold Condensed"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,171,0,0" TextWrapping="Wrap" Text="HAI PERSO :(" VerticalAlignment="Top" FontSize="52" FontFamily ="Bahnschrift SemiBold Condensed" Height="62" Width="213"/>
 
+        <Button x:Name="btnTornaAllaHome" Content="TORNA ALLA HOME" FontSize="30" FontFamily ="Bahnschrift SemiBold Condensed" Margin="285,246,285,127" Background="#FFCCDE82" Click="Button_Click_TornaHome">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+                BorderBrush="{TemplateBinding BorderBrush}"
+                BorderThickness="1"
+                CornerRadius="20">
+                        <ContentPresenter HorizontalAlignment="Center"
+                  VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btneEsci" Content="ESCI" FontSize="30" FontFamily ="Bahnschrift SemiBold Condensed" Margin="285,343,285,30" Background="#FFDA9592" Click="Button_Click_Esci">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+                BorderBrush="{TemplateBinding BorderBrush}"
+                BorderThickness="1"
+                CornerRadius="20">
+                        <ContentPresenter HorizontalAlignment="Center"
+                  VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
     </Grid>
 </Window>

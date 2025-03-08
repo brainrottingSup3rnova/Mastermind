@@ -23,5 +23,17 @@ namespace MastermindStep2
         {
             InitializeComponent();
         }
+
+        private void Button_Click_TornaHome(object sender, RoutedEventArgs e)
+        {
+            MainWindow home = new MainWindow();
+            home.Show();
+            Close();
+        }
+
+        private void Button_Click_Esci(object sender, RoutedEventArgs e)
+        {
+            Close();
+        }
     }
 }

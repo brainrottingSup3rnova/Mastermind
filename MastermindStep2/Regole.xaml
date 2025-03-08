@@ -7,8 +7,20 @@
         mc:Ignorable="d"
         Title="Regole" Height="456" Width="861">
     <Grid>
-        <Image Source="/Screenshot 2025-02-22 081521.png" Stretch="Fill"/>
-        <Button Content="TORNA INDIETRO" HorizontalAlignment="Center" Margin="0,390,0,0" VerticalAlignment="Top" Height="50" Width="169" Background="Red" FontSize="20"/>
-
+        <Image x:Name="imgRegole" Source="Immagini/imgRegole.png" Stretch="Fill" Margin="47,21,32,55"/>
+        <Button x:Name="btnTornaAllaHome" Content="TORNA INDIETRO" FontSize="25" FontFamily="Bahnschrift SemiBold Condensed" Margin="301,380,301,10" Background="#FFFB7676" Click="Button_Click_TornaIndietro">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+            BorderBrush="{TemplateBinding BorderBrush}"
+            BorderThickness="1"
+            CornerRadius="20
+                    ">
+                        <ContentPresenter HorizontalAlignment="Center"
+                  VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
     </Grid>
 </Window>

@@ -22,9 +22,16 @@ namespace MastermindStep2
         public Regole()
         {
             InitializeComponent();
+            string exePath = AppDomain.CurrentDomain.BaseDirectory;
+            imgRegole.Source = new BitmapImage(new Uri(System.IO.Path.Combine(exePath, "../../../Immagini/imgRegole.png"), UriKind.Absolute));
         }
 
-        
+        private void Button_Click_TornaIndietro(object sender, RoutedEventArgs e)
+        {
+            Hide();
+            MainWindow home = new MainWindow();
+            home.Show();
+        }
 
     }
 }
