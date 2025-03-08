@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monia\\source\\repos\\MastermindStep2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\monia\\source\\repos\\mastermindstep2\\mastermindstep2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\monia\\source\\repos\\mastermindstep2\\mastermindstep2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\monia\\source\\repos\\MastermindStep2\\MastermindStep2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MastermindStep2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\monia\\source\\repos\\MastermindStep2\\MastermindStep2\\MainWindow.xaml",
+              "RelativeToolTip": "MastermindStep2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-30T15:07:55.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\source\\repos\\MastermindStep2\\MastermindStep2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MastermindStep2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\monia\\source\\repos\\MastermindStep2\\MastermindStep2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MastermindStep2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:07:54.459Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
