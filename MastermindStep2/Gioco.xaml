@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Gioco" Height="1000" Width="1350">
     <Grid Background="#FFCAE9EF">
-        <Button x:Name="btnYellow" Margin="30,44,1250,870" Click="PrendiGiallo">
+        <Button x:Name="btnYellow" Margin="30,44,1250,870">
             <Button.Template>
                 <ControlTemplate TargetType="Button">
                     <Border Background="Yellow" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -17,7 +17,7 @@
             </Button.Template>
         </Button>
 
-        <Button x:Name="btnBlue" Margin="30,269,1250,645" Click="PrendiBlu">
+        <Button x:Name="btnBlue" Margin="30,269,1250,645">
             <Button.Template>
                 <ControlTemplate TargetType="Button">
                     <Border Background="Blue" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -27,7 +27,7 @@
             </Button.Template>
         </Button>
 
-        <Button x:Name="btnOrange" Margin="30,119,1250,795" Click="PrendiArancione">
+        <Button x:Name="btnOrange" Margin="30,119,1250,795">
             <Button.Template>
                 <ControlTemplate TargetType="Button">
                     <Border Background="Orange" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -37,7 +37,7 @@
             </Button.Template>
         </Button>
 
-        <Button x:Name="btnGreen" Margin="30,194,1250,720" Click="PrendiVerde">
+        <Button x:Name="btnGreen" Margin="30,194,1250,720">
             <Button.Template>
                 <ControlTemplate TargetType="Button">
                     <Border Background="Green" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -46,8 +46,9 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
+        <Rectangle Stroke="Black" Margin="688,26,10,26"/>
 
-        <Button x:Name="btnRed" Margin="30,344,1250,570" Click="PrendiRosso">
+        <Button x:Name="btnRed" Margin="30,344,1250,570">
             <Button.Template>
                 <ControlTemplate TargetType="Button">
                     <Border Background="Red" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -56,7 +57,6 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Rectangle Stroke="Black" Margin="675,10,23,42"/>
         <Button x:Name="btnRed_Copia" Margin="1239,44,41,870" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
@@ -66,7 +66,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_1" Margin="1155,44,125,870" >
+        <Button x:Name="btnRed_Copia1" Margin="1155,44,125,870" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -75,7 +75,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_2" Margin="1071,44,209,870" >
+        <Button x:Name="btnRed_Copia2" Margin="1071,44,209,870" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -84,7 +84,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_3" Margin="984,44,296,870" >
+        <Button x:Name="btnRed_Copia3" Margin="984,44,296,870" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -93,46 +93,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Grid Margin="705,58,458,883">
-            <Button x:Name="btnGriglia_4" Margin="144,0,0,0" >
-                <Button.Template>
-                    <ControlTemplate TargetType="{x:Type Button}">
-                        <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
-                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
-                        </Border>
-                    </ControlTemplate>
-                </Button.Template>
-            </Button>
-            <Button x:Name="btnGriglia_5" Margin="96,0,48,0" >
-                <Button.Template>
-                    <ControlTemplate TargetType="{x:Type Button}">
-                        <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
-                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
-                        </Border>
-                    </ControlTemplate>
-                </Button.Template>
-            </Button>
-            <Button x:Name="btnGriglia_6" Margin="48,0,96,0" >
-                <Button.Template>
-                    <ControlTemplate TargetType="{x:Type Button}">
-                        <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
-                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
-                        </Border>
-                    </ControlTemplate>
-                </Button.Template>
-            </Button>
-            <Button x:Name="btnGriglia_7" Margin="0,0,144,0" >
-                <Button.Template>
-                    <ControlTemplate TargetType="{x:Type Button}">
-                        <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
-                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
-                        </Border>
-                    </ControlTemplate>
-                </Button.Template>
-            </Button>
-
-        </Grid>
-        <Button x:Name="btnGriglia_8" Margin="1239,148,41,766" >
+        <Button x:Name="btnRed_Copia4" Margin="849,58,458,883" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -141,7 +102,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_9" Margin="1155,148,125,766" >
+        <Button x:Name="btnRed_Copia5" HorizontalAlignment="Right" Width="43" Margin="0,58,506,883" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -150,7 +111,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_10" Margin="1071,148,209,766" >
+        <Button x:Name="btnRed_Copia6" Margin="753,58,554,883" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -159,7 +120,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_11" Margin="984,148,296,766" >
+        <Button x:Name="btnRed_Copia7" Margin="705,58,602,883" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -168,7 +129,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_12" Margin="1239,251,41,663" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia8" Margin="1239,148,41,766" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -177,7 +138,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_13" Margin="1155,251,125,663" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia9" Margin="1155,148,125,766" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -186,7 +147,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_14" Margin="1071,251,209,663" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia10" Margin="1071,148,209,766" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -195,7 +156,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_15" Margin="984,251,296,663" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia11" Margin="984,148,296,766" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -204,7 +165,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_16" Margin="1239,347,41,567" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia12" Margin="1239,251,41,663" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -213,7 +174,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_17" Margin="1155,347,125,567" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia13" Margin="1155,251,125,663" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -222,7 +183,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_18" Margin="1071,347,209,567" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia14" Margin="1071,251,209,663" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -231,7 +192,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_19" Margin="984,347,296,567" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia15" Margin="984,251,296,663" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -240,7 +201,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_20" Margin="1239,441,41,473" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia16" Margin="1239,347,41,567" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -249,7 +210,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_21" Margin="1155,441,125,473" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia17" Margin="1155,347,125,567" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -258,7 +219,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_22" Margin="1071,441,209,473" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia18" Margin="1071,347,209,567" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -267,7 +228,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_23" Margin="984,441,296,473" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia19" Margin="984,347,296,567" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -276,7 +237,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_24" Margin="1239,543,41,371" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia20" Margin="1239,441,41,473" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -285,7 +246,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_25" Margin="1155,543,125,371" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia21" Margin="1155,441,125,473" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -294,7 +255,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_26" Margin="1071,543,209,371" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia22" Margin="1071,441,209,473" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -303,7 +264,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_27" Margin="984,543,296,371" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia23" Margin="984,441,296,473" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -312,7 +273,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_28" Margin="1239,633,41,281" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia24" Margin="1239,543,41,371" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -321,7 +282,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_29" Margin="1155,636,125,278" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia25" Margin="1155,543,125,371" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -330,7 +291,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_30" Margin="1071,636,209,278" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia26" Margin="1071,543,209,371" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -339,7 +300,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_31" Margin="984,636,296,278" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia27" Margin="984,543,296,371" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -348,7 +309,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_32" Margin="1239,744,41,170" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia28" Margin="1239,633,41,281" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -357,7 +318,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_33" Margin="1155,744,125,170" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia29" Margin="1155,636,125,278" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -366,7 +327,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_34" Margin="1071,744,209,170" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia30" Margin="1071,636,209,278" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -375,7 +336,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_35" Margin="984,744,296,170" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia31" Margin="984,636,296,278" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -384,7 +345,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_36" Margin="1239,846,41,68" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia32" Margin="1239,744,41,170" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -393,7 +354,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_37" Margin="1155,846,125,68" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia33" Margin="1155,744,125,170" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -402,7 +363,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_38" Margin="1071,846,209,68" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia34" Margin="1071,744,209,170" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -411,7 +372,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnGriglia_39" Margin="984,846,296,68" RenderTransformOrigin="0.6,0.786" >
+        <Button x:Name="btnRed_Copia35" Margin="984,744,296,170" RenderTransformOrigin="0.6,0.786" >
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
@@ -420,9 +381,356 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-
-
-
-
+        <Button x:Name="btnRed_Copia36" Margin="1239,846,41,68" RenderTransformOrigin="0.6,0.786" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia37" Margin="1155,846,125,68" RenderTransformOrigin="0.6,0.786" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia38" Margin="1071,846,209,68" RenderTransformOrigin="0.6,0.786" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia39" Margin="984,846,296,68" RenderTransformOrigin="0.6,0.786" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia40" Margin="849,162,458,779" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia41" HorizontalAlignment="Right" Width="43" Margin="0,162,506,779" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia42" Margin="753,162,554,779" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia43" Margin="705,162,602,779" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia44" Margin="849,264,458,676" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia45" HorizontalAlignment="Right" Width="43" Margin="0,264,506,676" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia46" Margin="753,264,554,676" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia47" Margin="705,264,602,676" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia52" Margin="849,360,458,580" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia53" HorizontalAlignment="Right" Width="43" Margin="0,360,506,580" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia54" Margin="753,360,554,580" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia55" Margin="705,360,602,580" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia56" Margin="849,454,458,486" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia57" HorizontalAlignment="Right" Width="43" Margin="0,454,506,486" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia58" Margin="753,454,554,486" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia59" Margin="705,454,602,486" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia60" Margin="849,556,458,384" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia61" HorizontalAlignment="Right" Width="43" Margin="0,556,506,384" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia62" Margin="753,556,554,384" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia63" Margin="705,556,602,384" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia64" Margin="849,650,458,291" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia65" HorizontalAlignment="Right" Width="43" Margin="0,650,506,291" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia66" Margin="753,650,554,291" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia67" Margin="705,650,602,291" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia68" Margin="849,758,458,183" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia69" HorizontalAlignment="Right" Width="43" Margin="0,758,506,183" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia70" Margin="753,758,554,183" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia71" Margin="705,758,602,183" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia72" Margin="849,860,458,81" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia73" HorizontalAlignment="Right" Width="43" Margin="0,860,506,81" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia74" Margin="753,860,554,81" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnRed_Copia75" Margin="705,860,602,81" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="White" BorderBrush="Gray" BorderThickness="2" CornerRadius="50">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnControlla" Content="CONTROLLA" FontSize="30" FontFamily ="Bahnschrift SemiBold Condensed" Margin="217,58,843,852" Background="#FF92DAA0" Click="Button_Click_GiocaOra">
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="{TemplateBinding Background}"
+                        BorderBrush="{TemplateBinding BorderBrush}"
+                        BorderThickness="1"
+                        CornerRadius="20">
+                        <ContentPresenter HorizontalAlignment="Center"
+                            VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnEsciGioco" Content="ESCI" FontSize="30" FontFamily ="Bahnschrift SemiBold Condensed" Margin="30,881,1030,29" Background="#FFFB7676" Click="Button_Click_GiocaOra">
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="{TemplateBinding Background}"
+                        BorderBrush="{TemplateBinding BorderBrush}"
+                        BorderThickness="1"
+                        CornerRadius="20">
+                        <ContentPresenter HorizontalAlignment="Center"
+                            VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
     </Grid>
 </Window>
+

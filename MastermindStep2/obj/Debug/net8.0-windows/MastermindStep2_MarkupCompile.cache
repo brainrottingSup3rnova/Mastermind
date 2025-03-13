@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindStep2\obj\Debug\net8.0-windows\
+C:\Users\luca.magnani\Desktop\MasterMind nuovo\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\
 MastermindStep2
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindStep2\App.xaml
-4-884074054
+C:\Users\luca.magnani\Desktop\MasterMind nuovo\Mastermind\MastermindStep2\App.xaml
+51722372137
 
-71269402261
+8453326448
 2071667880730
-MainWindow.xaml;Regole.xaml;Sconfitta.xaml;Vittoria.xaml;
+Gioco.xaml;MainWindow.xaml;Regole.xaml;Sconfitta.xaml;Vittoria.xaml;
 
-False
+True
 

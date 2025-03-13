@@ -37,7 +37,9 @@ namespace MastermindStep2
 
         private void Button_Click_Esci(object sender, RoutedEventArgs e)
         {
+            Gioco gioco = new Gioco();
             Close();
+            gioco.Show();
         }
     }
 }

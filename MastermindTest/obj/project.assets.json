@@ -1013,23 +1013,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anna.tassinari\\.nuget\\packages\\": {},
+    "C:\\Users\\luca.magnani\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindTest\\MastermindTest.csproj",
+      "projectUniqueName": "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindTest\\MastermindTest.csproj",
       "projectName": "MastermindTest",
-      "projectPath": "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindTest\\MastermindTest.csproj",
-      "packagesPath": "C:\\Users\\anna.tassinari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindTest\\obj\\",
+      "projectPath": "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindTest\\MastermindTest.csproj",
+      "packagesPath": "C:\\Users\\luca.magnani\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\anna.tassinari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luca.magnani\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1045,8 +1045,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj": {
-              "projectPath": "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj"
+            "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj": {
+              "projectPath": "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj"
             }
           }
         }

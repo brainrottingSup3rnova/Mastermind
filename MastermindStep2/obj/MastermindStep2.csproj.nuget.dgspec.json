@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindStep2\\MastermindStep2.csproj": {}
+    "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindStep2\\MastermindStep2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindStep2\\MastermindStep2.csproj": {
+    "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindStep2\\MastermindStep2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindStep2\\MastermindStep2.csproj",
+        "projectUniqueName": "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindStep2\\MastermindStep2.csproj",
         "projectName": "MastermindStep2",
-        "projectPath": "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindStep2\\MastermindStep2.csproj",
-        "packagesPath": "C:\\Users\\anna.tassinari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindStep2\\obj\\",
+        "projectPath": "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindStep2\\MastermindStep2.csproj",
+        "packagesPath": "C:\\Users\\luca.magnani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindStep2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\anna.tassinari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luca.magnani\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

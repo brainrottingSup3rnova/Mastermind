@@ -82,3 +82,14 @@ C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindStep2\obj\Debug\net8.0-window
 C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.genruntimeconfig.cache
 C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindStep2\obj\Debug\net8.0-windows\ref\MastermindStep2.dll
 C:\Users\anna.tassinari\Desktop\rbfbdbfr\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.sourcelink.json
+C:\Users\luca.magnani\Desktop\MasterMind nuovo\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Gioco.g.cs
+C:\Users\luca.magnani\Desktop\MasterMind nuovo\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\luca.magnani\Desktop\MasterMind nuovo\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Regole.g.cs
+C:\Users\luca.magnani\Desktop\MasterMind nuovo\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Sconfitta.g.cs
+C:\Users\luca.magnani\Desktop\MasterMind nuovo\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Vittoria.g.cs
+C:\Users\luca.magnani\Desktop\MasterMind nuovo\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\luca.magnani\Desktop\MasterMind nuovo\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2_MarkupCompile.cache
+C:\Users\luca.magnani\Desktop\MasterMind nuovo\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2_MarkupCompile.lref
+C:\Users\luca.magnani\Desktop\MasterMind nuovo\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.dll
+C:\Users\luca.magnani\Desktop\MasterMind nuovo\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\refint\MastermindStep2.dll
+C:\Users\luca.magnani\Desktop\MasterMind nuovo\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.pdb
