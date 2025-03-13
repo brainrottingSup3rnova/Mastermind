@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MastermindStep2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f141b5b6f4a36662697649dad1024df30a8f064f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f28d3786672cfc103a9903454d14f0245f840a5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MastermindStep2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MastermindStep2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

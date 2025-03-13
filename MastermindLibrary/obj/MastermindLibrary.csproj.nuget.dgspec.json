@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anna.tassinari\\Desktop\\rbfbdbfr\\MastermindLibrary\\MastermindLibrary.csproj": {}
+    "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anna.tassinari\\Desktop\\rbfbdbfr\\MastermindLibrary\\MastermindLibrary.csproj": {
+    "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anna.tassinari\\Desktop\\rbfbdbfr\\MastermindLibrary\\MastermindLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj",
         "projectName": "MastermindLibrary",
-        "projectPath": "C:\\Users\\anna.tassinari\\Desktop\\rbfbdbfr\\MastermindLibrary\\MastermindLibrary.csproj",
+        "projectPath": "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj",
         "packagesPath": "C:\\Users\\anna.tassinari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anna.tassinari\\Desktop\\rbfbdbfr\\MastermindLibrary\\obj\\",
+        "outputPath": "C:\\Users\\anna.tassinari\\Desktop\\fnhfnh\\Mastermind\\MastermindLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
