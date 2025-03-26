@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MasterMind" Height="450" Width="800">
     <Grid Background="#FFCAE9EF">
-        <Label x:Name="lblBene" Content="BENVENUTO SU MASTERMIND" Margin="165,52,131,315" FontSize="54" FontFamily="Bahnschrift SemiBold Condensed" RenderTransformOrigin="0.5,0.5">
+        <Label x:Name="lblBene" Content="BENVENUTO SU MASTERMIND" Margin="165,52,81,226" FontSize="54" FontFamily="Bahnschrift SemiBold Condensed" RenderTransformOrigin="0.5,0.5">
             <Label.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -17,7 +17,7 @@
                 </TransformGroup>
             </Label.RenderTransform>
         </Label>
-        <Button x:Name="btnGiocaOra" Content="GIOCA ORA" FontSize="30" FontFamily ="Bahnschrift SemiBold Condensed" Margin="285,176,285,197" Background="#FF92DAA0" Click="Button_Click_GiocaOra">
+        <Button x:Name="btnGiocaOra" Content="GIOCA ORA" FontSize="30" FontFamily ="Bahnschrift SemiBold Condensed" Margin="285,176,285,197" Background="#FF92DAA0" Click="btnGiocaOra_Click" >
             <Button.Template>
                 <ControlTemplate TargetType="Button">
                     <Border Background="{TemplateBinding Background}"
@@ -30,7 +30,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnRegole" Content="REGOLE" FontSize="30" FontFamily="Bahnschrift SemiBold Condensed" Margin="285,255,285,118" Background="#FFFFEA89" Click="Button_Click_Regole">
+        <Button x:Name="btnRegole" Content="REGOLE" FontSize="30" FontFamily="Bahnschrift SemiBold Condensed" Margin="285,255,285,118" Background="#FFFFEA89" Click="btnRegole_Click">
             <Button.Template>
                 <ControlTemplate TargetType="Button">
                     <Border Background="{TemplateBinding Background}"
@@ -43,7 +43,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnEsci" Content="ESCI" FontSize="25" FontFamily="Bahnschrift SemiBold Condensed" Margin="285,335,285,38" Background="#FFFB7676" Click="Button_Click_Esci">
+        <Button x:Name="btnEsci" Content="ESCI" FontSize="25" FontFamily="Bahnschrift SemiBold Condensed" Margin="285,335,285,38" Background="#FFFB7676" Click="btnEsci_Click" >
             <Button.Template>
                 <ControlTemplate TargetType="Button">
                     <Border Background="{TemplateBinding Background}"

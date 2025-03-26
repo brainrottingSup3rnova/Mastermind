@@ -1013,23 +1013,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luca.magnani\\.nuget\\packages\\": {},
+    "C:\\Users\\lucam\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindTest\\MastermindTest.csproj",
+      "projectUniqueName": "C:\\Users\\lucam\\OneDrive\\Desktop\\MasterMind\\Mastermind\\MastermindTest\\MastermindTest.csproj",
       "projectName": "MastermindTest",
-      "projectPath": "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindTest\\MastermindTest.csproj",
-      "packagesPath": "C:\\Users\\luca.magnani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindTest\\obj\\",
+      "projectPath": "C:\\Users\\lucam\\OneDrive\\Desktop\\MasterMind\\Mastermind\\MastermindTest\\MastermindTest.csproj",
+      "packagesPath": "C:\\Users\\lucam\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucam\\OneDrive\\Desktop\\MasterMind\\Mastermind\\MastermindTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\luca.magnani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lucam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1038,15 +1038,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj": {
-              "projectPath": "C:\\Users\\luca.magnani\\Desktop\\MasterMind nuovo\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj"
+            "C:\\Users\\lucam\\OneDrive\\Desktop\\MasterMind\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj": {
+              "projectPath": "C:\\Users\\lucam\\OneDrive\\Desktop\\MasterMind\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj"
             }
           }
         }
@@ -1060,7 +1059,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -1099,7 +1099,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

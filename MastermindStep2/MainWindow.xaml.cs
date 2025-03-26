@@ -23,23 +23,25 @@ namespace MastermindStep2
             imgPascal.Source = new BitmapImage(new Uri(System.IO.Path.Combine(exePath, "../../../Immagini/imgPascal.png"), UriKind.Absolute));
         }
 
-        private void Button_Click_GiocaOra(object sender, RoutedEventArgs e)
-        {
-            Close();
-        }
-
-        private void Button_Click_Regole(object sender, RoutedEventArgs e)
-        {
-            Regole regole = new Regole();
-            Close();
-            regole.Show();
-        }
-
-        private void Button_Click_Esci(object sender, RoutedEventArgs e)
+        private void btnGiocaOra_Click(object sender, RoutedEventArgs e)
         {
             Gioco gioco = new Gioco();
-            Close();
-            gioco.Show();
+            this.Close();
+            gioco.ShowDialog();
+        }
+
+        private void btnRegole_Click(object sender, RoutedEventArgs e)
+        {
+            Regole regole = new Regole();
+            this.Close();
+            regole.ShowDialog();
+        }
+
+        private void btnEsci_Click(object sender, RoutedEventArgs e)
+        {
+            Uscita uscita = new Uscita();
+            this.Close();
+            uscita.ShowDialog();
         }
     }
 }

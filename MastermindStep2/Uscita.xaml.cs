@@ -15,20 +15,15 @@ using System.Windows.Shapes;
 namespace MastermindStep2
 {
     /// <summary>
-    /// Logica di interazione per Gioco.xaml
+    /// Logica di interazione per Uscita.xaml
     /// </summary>
-    public partial class Gioco : Window
+    public partial class Uscita : Window
     {
-        public Gioco()
+        public Uscita()
         {
             InitializeComponent();
         }
 
-        private void btnEsciGioco_Click(object sender, RoutedEventArgs e)
-        {
-            MainWindow mainWindow = new MainWindow();
-            this.Close();
-            mainWindow.ShowDialog();
-        }
+        
     }
 }
