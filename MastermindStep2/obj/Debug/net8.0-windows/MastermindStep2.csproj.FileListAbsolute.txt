@@ -159,3 +159,40 @@ C:\Users\anna.tassinari\Desktop\Nuova cartella\Mastermind\MastermindStep2\bin\De
 C:\Users\anna.tassinari\Desktop\Nuova cartella\Mastermind\MastermindStep2\bin\Debug\net8.0-windows\MastermindLibrary.pdb
 C:\Users\anna.tassinari\Desktop\Nuova cartella\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.csproj.AssemblyReference.cache
 C:\Users\anna.tassinari\Desktop\Nuova cartella\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Mastermi.BC96111E.Up2Date
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\bin\Debug\net8.0-windows\MastermindStep2.exe
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\bin\Debug\net8.0-windows\MastermindStep2.deps.json
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\bin\Debug\net8.0-windows\MastermindStep2.runtimeconfig.json
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\bin\Debug\net8.0-windows\MastermindStep2.dll
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\bin\Debug\net8.0-windows\MastermindStep2.pdb
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\bin\Debug\net8.0-windows\MastermindLibrary.dll
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\bin\Debug\net8.0-windows\MastermindLibrary.pdb
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.csproj.AssemblyReference.cache
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Gioco.g.cs
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Profilo.g.cs
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Regole.g.cs
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Sconfitta.g.cs
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Uscita.g.cs
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Vittoria.g.cs
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2_MarkupCompile.cache
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2_MarkupCompile.lref
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Gioco.baml
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Profilo.baml
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Regole.baml
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Sconfitta.baml
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Uscita.baml
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Vittoria.baml
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.g.resources
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.AssemblyInfoInputs.cache
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.AssemblyInfo.cs
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.csproj.CoreCompileInputs.cache
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.sourcelink.json
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\Mastermi.BC96111E.Up2Date
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.dll
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\refint\MastermindStep2.dll
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.pdb
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\MastermindStep2.genruntimeconfig.cache
+C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\ref\MastermindStep2.dll

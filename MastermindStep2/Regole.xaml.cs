@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MastermindLibrary;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,8 +20,10 @@ namespace MastermindStep2
     /// </summary>
     public partial class Regole : Window
     {
-        public Regole()
+        private Giocatore _giocatore;
+        public Regole(Giocatore giocatoreCorrente)
         {
+            _giocatore = giocatoreCorrente;
             InitializeComponent();
             string exePath = AppDomain.CurrentDomain.BaseDirectory;
             imgRegole.Source = new BitmapImage(new Uri(System.IO.Path.Combine(exePath, "../../../Immagini/imgRegole.png"), UriKind.Absolute));
@@ -28,8 +31,8 @@ namespace MastermindStep2
 
         private void Button_Click_TornaIndietro(object sender, RoutedEventArgs e)
         {
-            Hide();
-            MainWindow home = new MainWindow();
+            this.Close();
+            MainWindow home = new MainWindow(_giocatore);
             home.Show();
         }
 

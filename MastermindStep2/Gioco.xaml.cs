@@ -20,8 +20,14 @@ namespace MastermindStep2
     /// </summary>
     public partial class Gioco : Window
     {
-        public Gioco()
+        private Giocatore _giocatore;
+        private Gioco _partita;
+        private Bot _computer;
+        public Gioco(Giocatore giocatoreCorrente)
         {
+            _giocatore = giocatoreCorrente;
+            _computer = new Bot();
+            _partita = new Gioco(_giocatore);
             InitializeComponent();
         }
 
@@ -62,7 +68,7 @@ namespace MastermindStep2
         private void BtnControlla_Controlla(object sender, RoutedEventArgs e)
         {
             ColoriDellaSequenza[] sequenzaInviata = new ColoriDellaSequenza[4];
-            sequenzaInviata[0] = _ultimoColoreCliccato;
+            sequenzaInviata[0] = Grid.GetRow(_partita.TentativiRimanenti);
         }
     }
 }

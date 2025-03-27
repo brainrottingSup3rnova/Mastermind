@@ -43,6 +43,7 @@ namespace MastermindLibrary
 
         public Pallina[] ControllaTentativo(Pallina[] sequenzaInviata)
         {
+            _tentativiFatti--;
             for (int i = 0; i < sequenzaInviata.Length; i++)
             {
                 if (sequenzaInviata[i] == _computer.sequenza[i])
@@ -64,7 +65,6 @@ namespace MastermindLibrary
         {   
             if(_pallineNere == NUM_PALLINE)
             {
-                _giocatore.PartiteVinte++;
                 return ("Complimenti! Hai vinto!! Sei un vero sigma :3");
             }
             else

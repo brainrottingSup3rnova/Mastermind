@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luca.magnani\\.nuget\\packages\\": {},
+    "C:\\Users\\monia\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\MastermindStep2.csproj",
+      "projectUniqueName": "C:\\Users\\monia\\Desktop\\f1\\Mastermind\\MastermindStep2\\MastermindStep2.csproj",
       "projectName": "MastermindStep2",
-      "projectPath": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\MastermindStep2.csproj",
-      "packagesPath": "C:\\Users\\luca.magnani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\obj\\",
+      "projectPath": "C:\\Users\\monia\\Desktop\\f1\\Mastermind\\MastermindStep2\\MastermindStep2.csproj",
+      "packagesPath": "C:\\Users\\monia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\monia\\Desktop\\f1\\Mastermind\\MastermindStep2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\luca.magnani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\monia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -52,15 +52,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj": {
-              "projectPath": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj"
+            "C:\\Users\\monia\\Desktop\\f1\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj": {
+              "projectPath": "C:\\Users\\monia\\Desktop\\f1\\Mastermind\\MastermindLibrary\\MastermindLibrary.csproj"
             }
           }
         }
@@ -74,7 +73,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -98,7 +98,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -19,22 +19,7 @@ namespace MastermindLibrary
             private set { }
         }
 
-        public int PartiteVinte
-        {
-            get
-            {
-                return PartiteVinte;
-            }
-            set
-            {
-                if(value < 0)
-                {
-                    throw new ArgumentOutOfRangeException("Le partite vinte non possono andare sotto lo 0");
-                }
-            }
-        }
-
-        public Giocatore(string nome, int partiteVinte = 0)
+        public Giocatore(string nome)
         {
             if (string.IsNullOrWhiteSpace(nome))
             {
@@ -43,15 +28,6 @@ namespace MastermindLibrary
             else
             {
                 Nome = nome;
-            }
-
-            if (partiteVinte < 0)
-            {
-                throw new ArgumentOutOfRangeException("le partite vinte non possono essere negative");
-            }
-            else
-            {
-                PartiteVinte = partiteVinte;
             }
         }
 

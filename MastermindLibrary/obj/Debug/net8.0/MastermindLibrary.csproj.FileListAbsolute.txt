@@ -46,3 +46,15 @@ C:\Users\anna.tassinari\Desktop\Nuova cartella\Mastermind\MastermindLibrary\obj\
 C:\Users\anna.tassinari\Desktop\Nuova cartella\Mastermind\MastermindLibrary\obj\Debug\net8.0\refint\MastermindLibrary.dll
 C:\Users\anna.tassinari\Desktop\Nuova cartella\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.pdb
 C:\Users\anna.tassinari\Desktop\Nuova cartella\Mastermind\MastermindLibrary\obj\Debug\net8.0\ref\MastermindLibrary.dll
+C:\Users\monia\Desktop\f1\Mastermind\MastermindLibrary\bin\Debug\net8.0\MastermindLibrary.deps.json
+C:\Users\monia\Desktop\f1\Mastermind\MastermindLibrary\bin\Debug\net8.0\MastermindLibrary.dll
+C:\Users\monia\Desktop\f1\Mastermind\MastermindLibrary\bin\Debug\net8.0\MastermindLibrary.pdb
+C:\Users\monia\Desktop\f1\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monia\Desktop\f1\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.AssemblyInfoInputs.cache
+C:\Users\monia\Desktop\f1\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.AssemblyInfo.cs
+C:\Users\monia\Desktop\f1\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.csproj.CoreCompileInputs.cache
+C:\Users\monia\Desktop\f1\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.sourcelink.json
+C:\Users\monia\Desktop\f1\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.dll
+C:\Users\monia\Desktop\f1\Mastermind\MastermindLibrary\obj\Debug\net8.0\refint\MastermindLibrary.dll
+C:\Users\monia\Desktop\f1\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.pdb
+C:\Users\monia\Desktop\f1\Mastermind\MastermindLibrary\obj\Debug\net8.0\ref\MastermindLibrary.dll

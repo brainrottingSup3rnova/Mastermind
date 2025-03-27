@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MastermindLibrary;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,22 +20,24 @@ namespace MastermindStep2
     /// </summary>
     public partial class Profilo : Window
     {
-        public Profilo()
+        private Giocatore _giocatore;
+        public Profilo(Giocatore giocatoreCorrente)
         {
+            _giocatore = giocatoreCorrente;
             InitializeComponent();
+            txtbox_Nome = _giocatore.Nome;
         }
 
         private void btnTornaAllaHome_Click(object sender, RoutedEventArgs e)
         {
-            MainWindow mainWindow = new MainWindow();
+            MainWindow mainWindow = new MainWindow(_giocatore);
             this.Close();
             mainWindow.ShowDialog();
         }
 
         private void TextBox_GotFocus(object sender, RoutedEventArgs e)
         {
-
-            txtbox_Nome.Text = ""; // Cancella il testo presente nella TextBox
+            txtbox_Nome.Text = string.Empty;
         }
     }
 }
