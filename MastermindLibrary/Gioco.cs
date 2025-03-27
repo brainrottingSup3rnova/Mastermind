@@ -14,10 +14,9 @@ namespace MastermindLibrary
         private Bot _computer;
         private int _tentativiFatti = 0;
         private int _pallineNere = 0;
-        private Pallina[] _soluzione = new Pallina[NUM_PALLINE];
-        private Pallina[] _risultatoInvio = new Pallina[NUM_PALLINE];
+        private ColoriDellaSequenza[] _soluzione = new ColoriDellaSequenza[NUM_PALLINE];
+        private ColoriDellaSequenza[] _risultatoInvio = new ColoriDellaSequenza[NUM_PALLINE];
         private Giocatore _giocatore;
-
         public int TentativiRimanenti
         {
             get
@@ -25,7 +24,6 @@ namespace MastermindLibrary
                 return NUM_TENTATIVI - _tentativiFatti;
             }
         }
-
         public Gioco(Giocatore giocatore, FixedGenerator? generator = null)
         {
             _computer = new Bot();
@@ -41,48 +39,26 @@ namespace MastermindLibrary
             }
         }
 
-        public Pallina[] ControllaTentativo(Pallina[] sequenzaInviata)
+        public ColoriDellaSequenza[] ControllaTentativo(ColoriDellaSequenza[] sequenzaInviata)
         {
-            _tentativiFatti--;
+            _tentativiFatti++;
+            ColoriDellaSequenza[] risultato = new ColoriDellaSequenza[NUM_PALLINE];
             for (int i = 0; i < sequenzaInviata.Length; i++)
             {
-                if (sequenzaInviata[i] == _computer.sequenza[i])
+                if (sequenzaInviata[i] == _soluzione[i])
                 {
-                    _risultatoInvio[i] = new Pallina(ColoriPerControllare.NERO, i + 1);
-                    _pallineNere++;
+                    risultato[i] = ColoriDellaSequenza.NERO;
                 }
-                else if (sequenzaInviata[i].ColoreDaGioco == _computer.sequenza[i].ColoreDaGioco)
+                else if (_soluzione.Contains(sequenzaInviata[i]))
                 {
-                    _risultatoInvio[i] = new Pallina(ColoriPerControllare.BIANCO, i + 1);
+                    risultato[i] = ColoriDellaSequenza.BIANCO;
                 }
-                else _risultatoInvio[i] = new Pallina(ColoriPerControllare.NULL, i + 1);
+                else
+                {
+                    risultato[i] = ColoriDellaSequenza.NULL;
+                }
             }
-            
-            return _risultatoInvio;
-        }
-
-        public string? PartitaVinta()
-        {   
-            if(_pallineNere == NUM_PALLINE)
-            {
-                return ("Complimenti! Hai vinto!! Sei un vero sigma :3");
-            }
-            else
-            {
-                return null;
-            }
-        }
-
-        public string? PartitaPersa()
-        {
-            if(TentativiRimanenti == 0)
-            {
-                return ("Mi dispiace...hai perso!");
-            }
-            else
-            {
-                return null; 
-            }
+            return risultato;
         }
     }
 }

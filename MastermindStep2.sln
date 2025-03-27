@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MastermindStep2", "Mastermi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MastermindLibrary", "MastermindLibrary\MastermindLibrary.csproj", "{2E7F9539-49D2-4702-8425-26209B0043AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMastermind", "TestMastermind\TestMastermind.csproj", "{4F843B25-E286-41FB-AC98-DD98022A73AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMasterMindPT2", "TestMasterMindPT2\TestMasterMindPT2.csproj", "{6B1A2A16-AE25-45FD-BB24-2927423C601B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{2E7F9539-49D2-4702-8425-26209B0043AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E7F9539-49D2-4702-8425-26209B0043AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E7F9539-49D2-4702-8425-26209B0043AB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4F843B25-E286-41FB-AC98-DD98022A73AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4F843B25-E286-41FB-AC98-DD98022A73AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4F843B25-E286-41FB-AC98-DD98022A73AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4F843B25-E286-41FB-AC98-DD98022A73AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B1A2A16-AE25-45FD-BB24-2927423C601B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1A2A16-AE25-45FD-BB24-2927423C601B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1A2A16-AE25-45FD-BB24-2927423C601B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1A2A16-AE25-45FD-BB24-2927423C601B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

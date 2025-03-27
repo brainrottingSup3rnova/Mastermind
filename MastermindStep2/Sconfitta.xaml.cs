@@ -11,7 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
-
+using MastermindLibrary;
 namespace MastermindStep2
 {
     /// <summary>
@@ -19,8 +19,12 @@ namespace MastermindStep2
     /// </summary>
     public partial class Sconfitta : Window
     {
-        public Sconfitta()
+        private MainWindow _main;
+        private Giocatore _giocatore;
+        public Sconfitta(Giocatore giocatoreCorrente,MainWindow mainWindow)
         {
+            _giocatore = giocatoreCorrente;
+            _main = mainWindow;
             InitializeComponent();
         }
 

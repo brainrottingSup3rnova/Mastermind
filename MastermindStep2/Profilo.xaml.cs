@@ -21,23 +21,29 @@ namespace MastermindStep2
     public partial class Profilo : Window
     {
         private Giocatore _giocatore;
-        public Profilo(Giocatore giocatoreCorrente)
+        private MainWindow _main;
+        public Profilo(Giocatore giocatoreCorrente,MainWindow main)
         {
             _giocatore = giocatoreCorrente;
             InitializeComponent();
-            txtbox_Nome = _giocatore.Nome;
+            txtbox_Nome.Text = _giocatore.Nome;
+            _main = main;
         }
 
         private void btnTornaAllaHome_Click(object sender, RoutedEventArgs e)
         {
-            MainWindow mainWindow = new MainWindow(_giocatore);
             this.Close();
-            mainWindow.ShowDialog();
+            _main.Show();
         }
 
         private void TextBox_GotFocus(object sender, RoutedEventArgs e)
         {
             txtbox_Nome.Text = string.Empty;
+        }
+
+        private void BtnSalva_Click(object sender, RoutedEventArgs e)
+        {
+            _giocatore.Nome = txtbox_Nome.Text;
         }
     }
 }

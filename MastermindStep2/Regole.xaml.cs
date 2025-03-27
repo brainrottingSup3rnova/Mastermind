@@ -21,19 +21,20 @@ namespace MastermindStep2
     public partial class Regole : Window
     {
         private Giocatore _giocatore;
-        public Regole(Giocatore giocatoreCorrente)
+        private MainWindow _main;
+        public Regole(Giocatore giocatoreCorrente, MainWindow main)
         {
             _giocatore = giocatoreCorrente;
             InitializeComponent();
             string exePath = AppDomain.CurrentDomain.BaseDirectory;
             imgRegole.Source = new BitmapImage(new Uri(System.IO.Path.Combine(exePath, "../../../Immagini/imgRegole.png"), UriKind.Absolute));
+            _main = main;
         }
 
         private void Button_Click_TornaIndietro(object sender, RoutedEventArgs e)
         {
+            _main.Show();
             this.Close();
-            MainWindow home = new MainWindow(_giocatore);
-            home.Show();
         }
 
     }

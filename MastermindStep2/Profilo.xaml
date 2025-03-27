@@ -23,7 +23,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button x:Name="btnSalva" Content="SALVA" FontSize="30" FontFamily ="Bahnschrift SemiBold Condensed" Margin="304,312,306,72" Background="#FF92DAA0" Click="btnGiocaOra_Click" >
+        <Button x:Name="btnSalva" Content="SALVA" FontSize="30" FontFamily ="Bahnschrift SemiBold Condensed" Margin="304,312,306,72" Background="#FF92DAA0" Click="BtnSalva_Click">
             <Button.Template>
                 <ControlTemplate TargetType="Button">
                     <Border Background="{TemplateBinding Background}"

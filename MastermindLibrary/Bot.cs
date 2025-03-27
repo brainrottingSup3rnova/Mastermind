@@ -10,11 +10,11 @@ namespace MastermindLibrary
         const int NUM_TENTATIVI = 9;
         const int NUM_PALLINE = 4;
 
-        public Pallina[] sequenza;
+        public ColoriDellaSequenza[] sequenza;
 
         public Bot()
         {
-            sequenza = new Pallina[NUM_PALLINE];
+            sequenza = new ColoriDellaSequenza[NUM_PALLINE];
         }
 
         public int NumeroColori
@@ -26,109 +26,17 @@ namespace MastermindLibrary
             private set { }
         }
 
-        public Pallina[] GeneraCodice()
+        public ColoriDellaSequenza[] GeneraCodice()
         {
             Random random = new Random();
+            ColoriDellaSequenza[] sequenzaColori = new ColoriDellaSequenza[NUM_PALLINE];
 
-            for (int i = 0; i < sequenza.Length; i++)
+            for (int i = 0; i < sequenzaColori.Length; i++)
             {
-                int numero = random.Next(1, 6); //genera un numero da 1 a 5
-
-                if (i == 0)
-                {
-                    if (numero == 1)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.ROSSO, i + 1);
-                    }
-                    else if (numero == 2)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.ARANCIONE, i + 1);
-                    }
-                    else if (numero == 3)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.GIALLO, i + 1);
-                    }
-                    else if (numero == 4)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.VERDE, i + 1);
-                    }
-                    else if(numero == 5)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.BLU, i + 1);
-                    }
-                } 
-                else if (i == 1)
-                {
-                    if (numero == 1)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.ROSSO, i + 1);
-                    }
-                    else if (numero == 2)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.ARANCIONE, i + 1);
-                    }
-                    else if (numero == 3)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.GIALLO, i+1);
-                    }
-                    else if (numero == 4)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.VERDE, i + 1);
-                    }
-                    else if (numero == 5)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.BLU, i + 1);
-                    }
-                }
-                else if (i == 2)
-                {
-                    if (numero == 1)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.ROSSO, i + 1);
-                    }
-                    else if (numero == 2)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.ARANCIONE, i + 1);
-                    }
-                    else if (numero == 3)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.GIALLO, i + 1);
-                    }
-                    else if (numero == 4)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.VERDE, i + 1);
-                    }
-                    else if (numero == 5)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.BLU, i + 1);
-                    }
-                }
-                else if (i == 3)
-                {
-                    if (numero == 1)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.ROSSO, i + 1);
-                    }
-                    else if (numero == 2)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.ARANCIONE, i + 1);
-                    }
-                    else if (numero == 3)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.GIALLO, i + 1);
-                    }
-                    else if (numero == 4)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.VERDE, i + 1);
-                    }
-                    else if (numero == 5)
-                    {
-                        sequenza[i] = new Pallina(ColoriDellaSequenza.BLU, i + 1);
-                    }
-                }
+                int numero = random.Next(1, 6); // genera un numero da 1 a 5
+                sequenzaColori[i] = (ColoriDellaSequenza)(numero - 1);
             }
-
-            return sequenza;
+            return sequenzaColori;
         }
     }
 }

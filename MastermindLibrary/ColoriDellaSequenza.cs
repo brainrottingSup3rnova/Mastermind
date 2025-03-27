@@ -11,6 +11,9 @@ namespace MastermindLibrary
         ARANCIONE,
         GIALLO,
         VERDE,
-        BLU
+        BLU,
+        NERO,
+        BIANCO,
+        NULL
     }
 }

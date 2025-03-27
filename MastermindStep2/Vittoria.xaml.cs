@@ -11,7 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
-
+using MastermindLibrary;
 namespace MastermindStep2
 {
     /// <summary>
@@ -19,8 +19,13 @@ namespace MastermindStep2
     /// </summary>
     public partial class Vittoria : Window
     {
-        public Vittoria()
+        private MainWindow _main;
+        Giocatore _giocatore;
+
+        public Vittoria(Giocatore giocatoreCorrente,MainWindow mainWindow)
         {
+            _giocatore = giocatoreCorrente;
+            _main = mainWindow;
             InitializeComponent();
         }
 
@@ -31,9 +36,8 @@ namespace MastermindStep2
 
         private void Button_Click_TornaHome(object sender, RoutedEventArgs e)
         {
-            MainWindow home = new MainWindow();
-            home.Show();
-            Close();
+            _main.Show();
+            this.Close();
         }
     }
 }

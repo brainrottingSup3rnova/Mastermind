@@ -10,14 +10,7 @@ namespace MastermindLibrary
         private int _counter = 0;
         private Bot _computer = new Bot();
 
-        public string Nome
-        {
-            get
-            {
-                return Nome;
-            }
-            private set { }
-        }
+        public string Nome { get; set; }
 
         public Giocatore(string nome)
         {

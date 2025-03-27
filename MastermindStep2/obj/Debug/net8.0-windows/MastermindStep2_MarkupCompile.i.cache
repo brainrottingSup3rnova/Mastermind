@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\
+C:\Users\latif\Desktop\MasterMindDIANNA\Mastermind\MastermindStep2\obj\Debug\net8.0-windows\
 MastermindStep2
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\monia\Desktop\f1\Mastermind\MastermindStep2\App.xaml
+C:\Users\latif\Desktop\MasterMindDIANNA\Mastermind\MastermindStep2\App.xaml
 7-1677260834
 
 12-1672508836
-208-588964481
+208-109454136
 Gioco.xaml;MainWindow.xaml;Profilo.xaml;Regole.xaml;Sconfitta.xaml;Uscita.xaml;Vittoria.xaml;
 
-False
+True
 

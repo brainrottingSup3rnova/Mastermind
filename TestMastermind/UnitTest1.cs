@@ -8,7 +8,7 @@ namespace TestMastermind
         [TestMethod]
         public void TestMethod1()
         {
-            Giocatore giocatore1 = new Giocatore("susususup", 0);
+            Giocatore giocatore1 = new Giocatore("susususup");
             Bot bot1 = new Bot();
             FixedGenerator fixedGenerator = new FixedGenerator();
             Gioco gioco = new Gioco(giocatore1, fixedGenerator);
@@ -34,7 +34,7 @@ namespace TestMastermind
         [TestMethod]
         public void Gioco_TentativoParzialmenteSbagliato_RitornaSequenzaNeraBianca()
         {
-            Giocatore giocatore1 = new Giocatore("susususup", 0);
+            Giocatore giocatore1 = new Giocatore("susususup");
             Bot bot1 = new Bot();
             FixedGenerator fixedGenerator = new FixedGenerator();
             Gioco gioco = new Gioco(giocatore1, fixedGenerator);

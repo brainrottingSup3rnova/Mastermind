@@ -10,15 +10,15 @@ namespace MastermindLibrary
     {
         public FixedGenerator() { }
 
-        public Pallina[] GeneraCodice ()
+        public ColoriDellaSequenza[] GeneraCodice()
         {
-            Pallina[] sequenza =
-            [
-                new Pallina(ColoriDellaSequenza.ROSSO, 1),
-                new Pallina(ColoriDellaSequenza.ROSSO, 2),
-                new Pallina(ColoriDellaSequenza.ROSSO, 3),
-                new Pallina(ColoriDellaSequenza.ROSSO, 4),
-            ];
+            ColoriDellaSequenza[] sequenza =
+                {
+                    ColoriDellaSequenza.ROSSO,
+                    ColoriDellaSequenza.ROSSO,
+                    ColoriDellaSequenza.ROSSO,
+                    ColoriDellaSequenza.ROSSO,
+                };
             return sequenza;
         }
     }

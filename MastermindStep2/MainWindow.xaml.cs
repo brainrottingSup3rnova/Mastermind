@@ -37,29 +37,29 @@ namespace MastermindStep2
 
         private void btnGiocaOra_Click(object sender, RoutedEventArgs e)
         {
-            Gioco gioco = new Gioco(_giocatore);
-            this.Close();
+            GiocoWPF gioco = new GiocoWPF(_giocatore,this);
+            this.Hide();
             gioco.ShowDialog();
         }
 
         private void btnRegole_Click(object sender, RoutedEventArgs e)
         {
-            Regole regole = new Regole(_giocatore);
-            this.Close();
+            Regole regole = new Regole(_giocatore,this);
+            this.Hide();
             regole.ShowDialog();
         }
 
         private void btnEsci_Click(object sender, RoutedEventArgs e)
         {
             Uscita uscita = new Uscita();
-            this.Close();
+            this.Hide();
             uscita.ShowDialog();
         }
 
         private void BtnProfilo_Click(object obj, RoutedEventArgs e)
         {
-            Profilo profilo = new Profilo();
-            this.Close();
+            Profilo profilo = new Profilo(_giocatore, this);
+            this.Hide();
             profilo.ShowDialog();
         }
     }

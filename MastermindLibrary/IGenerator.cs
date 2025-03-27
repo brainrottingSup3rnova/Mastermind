@@ -8,6 +8,6 @@ namespace MastermindLibrary
 {
     public interface IGenerator
     {
-        public Pallina[] GeneraCodice();
+        public ColoriDellaSequenza[] GeneraCodice();
     }
 }
