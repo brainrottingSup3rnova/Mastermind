@@ -9,4 +9,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MastermindLibrary\MastermindLibrary.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using MastermindLibrary;
 
 namespace MastermindStep2
 {
@@ -24,11 +25,44 @@ namespace MastermindStep2
             InitializeComponent();
         }
 
+        private ColoriDellaSequenza _ultimoColoreCliccato;
+
         private void btnEsciGioco_Click(object sender, RoutedEventArgs e)
         {
             MainWindow mainWindow = new MainWindow();
             this.Close();
             mainWindow.ShowDialog();
+        }
+
+        private void BtnRosso_Click(object sender, RoutedEventArgs e)
+        {
+            _ultimoColoreCliccato = ColoriDellaSequenza.ROSSO;
+        }
+
+        private void BtnVerde_Click(object sender, RoutedEventArgs e)
+        {
+            _ultimoColoreCliccato = ColoriDellaSequenza.VERDE;
+        }
+
+        private void BtnBlu_Click(object sender, RoutedEventArgs e)
+        {
+            _ultimoColoreCliccato = ColoriDellaSequenza.BLU;
+        }
+
+        private void BtnGiallo_Click(object sender, RoutedEventArgs e)
+        {
+            _ultimoColoreCliccato = ColoriDellaSequenza.GIALLO;
+        }
+
+        private void BtnArancione_Click(object sender, RoutedEventArgs e)
+        {
+            _ultimoColoreCliccato = ColoriDellaSequenza.ARANCIONE;
+        }
+
+        private void BtnControlla_Controlla(object sender, RoutedEventArgs e)
+        {
+            ColoriDellaSequenza[] sequenzaInviata = new ColoriDellaSequenza[4];
+            sequenzaInviata[0] = _ultimoColoreCliccato;
         }
     }
 }
