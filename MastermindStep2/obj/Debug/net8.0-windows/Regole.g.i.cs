@@ -70,7 +70,7 @@ namespace MastermindStep2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MastermindStep2;component/regole.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MastermindStep2;V1.0.0.0;component/regole.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Regole.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

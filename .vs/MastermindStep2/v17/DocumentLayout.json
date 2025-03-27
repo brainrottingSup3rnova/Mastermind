@@ -1,77 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\",
+  "WorkspaceRootPath": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\gioco.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\gioco.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\profilo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\profilo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F843B25-E286-41FB-AC98-DD98022A73AE}|TestMastermind\\TestMastermind.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\testmastermind\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F843B25-E286-41FB-AC98-DD98022A73AE}|TestMastermind\\TestMastermind.csproj|solutionrelative:testmastermind\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\profilo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\profilo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F843B25-E286-41FB-AC98-DD98022A73AE}|TestMastermind\\TestMastermind.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\testmastermind\\testmastermind.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4F843B25-E286-41FB-AC98-DD98022A73AE}|TestMastermind\\TestMastermind.csproj|solutionrelative:testmastermind\\testmastermind.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\gioco.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\gioco.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindlibrary\\gioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|solutionrelative:mastermindlibrary\\gioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\mastermindstep2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\mastermindstep2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\regole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\regole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\vittoria.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\vittoria.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\vittoria.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\uscita.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\mastermindstep2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\mastermindstep2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\gioco.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\gioco.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F843B25-E286-41FB-AC98-DD98022A73AE}|TestMastermind\\TestMastermind.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\testmastermind\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F843B25-E286-41FB-AC98-DD98022A73AE}|TestMastermind\\TestMastermind.csproj|solutionrelative:testmastermind\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F843B25-E286-41FB-AC98-DD98022A73AE}|TestMastermind\\TestMastermind.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\testmastermind\\testmastermind.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F843B25-E286-41FB-AC98-DD98022A73AE}|TestMastermind\\TestMastermind.csproj|solutionrelative:testmastermind\\testmastermind.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\gioco.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\gioco.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindlibrary\\gioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|solutionrelative:mastermindlibrary\\gioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\regole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\regole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\uscita.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\uscita.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\sconfitta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\sconfitta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\sconfitta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\sconfitta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\sconfitta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\sconfitta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\uscita.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\uscita.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\uscita.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\regole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\regole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\regole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\vittoria.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\vittoria.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\vittoria.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\anna.tassinari\\desktop\\nuova cartella\\mastermind\\mastermindstep2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\luca.magnani\\desktop\\sadvbsvf\\mastermind\\mastermindstep2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -82,58 +90,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestMastermind",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\TestMastermind\\TestMastermind.csproj",
-              "RelativeDocumentMoniker": "TestMastermind\\TestMastermind.csproj",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\TestMastermind\\TestMastermind.csproj",
-              "RelativeToolTip": "TestMastermind\\TestMastermind.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-27T09:48:55.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\TestMastermind\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "TestMastermind\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\TestMastermind\\UnitTest1.cs",
-              "RelativeToolTip": "TestMastermind\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAIAAAA",
+              "Title": "Profilo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Profilo.xaml.cs",
+              "RelativeDocumentMoniker": "MastermindStep2\\Profilo.xaml.cs",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Profilo.xaml.cs",
+              "RelativeToolTip": "MastermindStep2\\Profilo.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:48:24.485Z",
+              "WhenOpened": "2025-03-27T09:57:49.766Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Gioco.cs",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindLibrary\\Gioco.cs",
-              "RelativeDocumentMoniker": "MastermindLibrary\\Gioco.cs",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindLibrary\\Gioco.cs",
-              "RelativeToolTip": "MastermindLibrary\\Gioco.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:19:04.23Z",
+              "DocumentIndex": 0,
+              "Title": "Profilo.xaml",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Profilo.xaml",
+              "RelativeDocumentMoniker": "MastermindStep2\\Profilo.xaml",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Profilo.xaml",
+              "RelativeToolTip": "MastermindStep2\\Profilo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T09:57:33.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MastermindStep2",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\MastermindStep2.csproj",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\TestMastermind\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestMastermind\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\TestMastermind\\UnitTest1.cs",
+              "RelativeToolTip": "TestMastermind\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:48:24.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gioco.cs",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindLibrary\\Gioco.cs",
+              "RelativeDocumentMoniker": "MastermindLibrary\\Gioco.cs",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindLibrary\\Gioco.cs",
+              "RelativeToolTip": "MastermindLibrary\\Gioco.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:19:04.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MastermindStep2.csproj",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\MastermindStep2.csproj",
               "RelativeDocumentMoniker": "MastermindStep2\\MastermindStep2.csproj",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\MastermindStep2.csproj",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\MastermindStep2.csproj",
               "RelativeToolTip": "MastermindStep2\\MastermindStep2.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -142,22 +156,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Vittoria.xaml",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Vittoria.xaml",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Vittoria.xaml",
               "RelativeDocumentMoniker": "MastermindStep2\\Vittoria.xaml",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Vittoria.xaml",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Vittoria.xaml",
               "RelativeToolTip": "MastermindStep2\\Vittoria.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-27T09:02:48.472Z"
+              "WhenOpened": "2025-03-27T09:02:48.472Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\App.xaml",
               "RelativeDocumentMoniker": "MastermindStep2\\App.xaml",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\App.xaml",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\App.xaml",
               "RelativeToolTip": "MastermindStep2\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-26T19:06:10.087Z",
@@ -165,11 +180,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Uscita.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Uscita.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Uscita.xaml.cs",
               "RelativeDocumentMoniker": "MastermindStep2\\Uscita.xaml.cs",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Uscita.xaml.cs",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Uscita.xaml.cs",
               "RelativeToolTip": "MastermindStep2\\Uscita.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,22 +192,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Uscita.xaml",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Uscita.xaml",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Uscita.xaml",
               "RelativeDocumentMoniker": "MastermindStep2\\Uscita.xaml",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Uscita.xaml",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Uscita.xaml",
               "RelativeToolTip": "MastermindStep2\\Uscita.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-26T18:13:55.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MastermindStep2\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\MainWindow.xaml.cs",
               "RelativeToolTip": "MastermindStep2\\MainWindow.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAmwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -200,35 +215,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MastermindStep2\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\MainWindow.xaml",
               "RelativeToolTip": "MastermindStep2\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-22T07:01:37.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Gioco.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Gioco.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Gioco.xaml.cs",
               "RelativeDocumentMoniker": "MastermindStep2\\Gioco.xaml.cs",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Gioco.xaml.cs",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Gioco.xaml.cs",
               "RelativeToolTip": "MastermindStep2\\Gioco.xaml.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAA1wDEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T09:49:41.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T09:49:41.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Gioco.xaml",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Gioco.xaml",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Gioco.xaml",
               "RelativeDocumentMoniker": "MastermindStep2\\Gioco.xaml",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Gioco.xaml",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Gioco.xaml",
               "RelativeToolTip": "MastermindStep2\\Gioco.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-13T09:38:20.686Z",
@@ -236,11 +250,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
+              "Title": "TestMastermind.csproj",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\TestMastermind\\TestMastermind.csproj",
+              "RelativeDocumentMoniker": "TestMastermind\\TestMastermind.csproj",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\TestMastermind\\TestMastermind.csproj",
+              "RelativeToolTip": "TestMastermind\\TestMastermind.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T09:48:55.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Sconfitta.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Sconfitta.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Sconfitta.xaml.cs",
               "RelativeDocumentMoniker": "MastermindStep2\\Sconfitta.xaml.cs",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Sconfitta.xaml.cs",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Sconfitta.xaml.cs",
               "RelativeToolTip": "MastermindStep2\\Sconfitta.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,11 +274,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Vittoria.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Vittoria.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Vittoria.xaml.cs",
               "RelativeDocumentMoniker": "MastermindStep2\\Vittoria.xaml.cs",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Vittoria.xaml.cs",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Vittoria.xaml.cs",
               "RelativeToolTip": "MastermindStep2\\Vittoria.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -260,22 +286,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Sconfitta.xaml",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Sconfitta.xaml",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Sconfitta.xaml",
               "RelativeDocumentMoniker": "MastermindStep2\\Sconfitta.xaml",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Sconfitta.xaml",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Sconfitta.xaml",
               "RelativeToolTip": "MastermindStep2\\Sconfitta.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-08T08:11:54.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\App.xaml.cs",
               "RelativeDocumentMoniker": "MastermindStep2\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\App.xaml.cs",
               "RelativeToolTip": "MastermindStep2\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,11 +309,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Regole.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Regole.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Regole.xaml.cs",
               "RelativeDocumentMoniker": "MastermindStep2\\Regole.xaml.cs",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Regole.xaml.cs",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Regole.xaml.cs",
               "RelativeToolTip": "MastermindStep2\\Regole.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,11 +321,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Regole.xaml",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Regole.xaml",
+              "DocumentMoniker": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Regole.xaml",
               "RelativeDocumentMoniker": "MastermindStep2\\Regole.xaml",
-              "ToolTip": "C:\\Users\\anna.tassinari\\Desktop\\Nuova cartella\\Mastermind\\MastermindStep2\\Regole.xaml",
+              "ToolTip": "C:\\Users\\luca.magnani\\Desktop\\sadvbsvf\\Mastermind\\MastermindStep2\\Regole.xaml",
               "RelativeToolTip": "MastermindStep2\\Regole.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-22T07:01:37.197Z"

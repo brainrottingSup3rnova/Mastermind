@@ -1,0 +1,28 @@
+﻿<Window x:Class="MastermindStep2.Profilo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MastermindStep2"
+        mc:Ignorable="d"
+        Title="Profilo" Height="450" Width="800">
+    <Grid  Background="#FFCAE9EF">
+        <TextBlock HorizontalAlignment="Left" Margin="327,25,0,0" TextWrapping="Wrap" Text="PROFILO" VerticalAlignment="Top" Height="81" Width="231" FontSize="54" FontFamily="Bahnschrift SemiBold Condensed"/>
+        <TextBlock HorizontalAlignment="Left" Margin="82,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold Condensed" FontSize="48" Text="Nome:"/>
+        <TextBox x:Name="txtbox_Nome" HorizontalAlignment="Left" Margin="183,124,0,0" TextWrapping="Wrap" Text="Inserisci il tuo nome" VerticalAlignment="Top" Width="188" FontSize="16"/>
+        <Button x:Name="btnTornaAllaHome" Content="TORNA INDIETRO" FontSize="25" FontFamily="Bahnschrift SemiBold Condensed" Margin="598,381,10,10" Background="#FFFB7676" Click="btnTornaAllaHome_Click" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="{TemplateBinding Background}"
+                        BorderBrush="{TemplateBinding BorderBrush}"
+                        BorderThickness="1"
+                        CornerRadius="20                     ">
+                        <ContentPresenter HorizontalAlignment="Center"
+                            VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+    </Grid>
+</Window>
