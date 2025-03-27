@@ -95,14 +95,28 @@ namespace MastermindStep2
         }
         private void BtnControlla_Controlla(object sender, RoutedEventArgs e)
         {
+            bool risultato = true;
+            int contatore = 0;
             System.Windows.Controls.Button button = (System.Windows.Controls.Button)sender;
             button.Visibility=Visibility.Hidden;
             _risultatoSequenza = _partita.ControllaTentativo(sequenzaInviata);
-            if(_risultatoSequenza == _sequenzaFullNera)
+            while(risultato == true)
+            {
+                if (_sequenzaFullNera[contatore] == _risultatoSequenza[contatore])
+                {
+                    contatore++;
+                }
+                else
+                {
+                    risultato = false;
+                }
+            }
+
+            if (risultato == true)
             {
                 Vittoria();
             }
-            else if (_partita.TentativiRimanenti<=0)
+            else if(_partita.TentativiRimanenti <=0)
             {
                 Sconfitta();
             }

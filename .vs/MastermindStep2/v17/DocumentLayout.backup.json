@@ -1,76 +1,76 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\",
+  "WorkspaceRootPath": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindstep2\\gioco.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\gioco.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindlibrary\\gioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|solutionrelative:mastermindlibrary\\gioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindstep2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindstep2\\gioco.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindstep2\\gioco.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\gioco.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindstep2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindlibrary\\gioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|solutionrelative:mastermindlibrary\\gioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindstep2\\gioco.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\gioco.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindstep2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindstep2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindlibrary\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindlibrary\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|solutionrelative:mastermindlibrary\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindstep2\\vittoria.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindstep2\\vittoria.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\vittoria.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindstep2\\sconfitta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindstep2\\sconfitta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\sconfitta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindstep2\\vittoria.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindstep2\\vittoria.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\vittoria.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B1A2A16-AE25-45FD-BB24-2927423C601B}|TestMasterMindPT2\\TestMasterMindPT2.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\testmastermindpt2\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B1A2A16-AE25-45FD-BB24-2927423C601B}|TestMasterMindPT2\\TestMasterMindPT2.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\testmastermindpt2\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B1A2A16-AE25-45FD-BB24-2927423C601B}|TestMasterMindPT2\\TestMasterMindPT2.csproj|solutionrelative:testmastermindpt2\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindlibrary\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindlibrary\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|solutionrelative:mastermindlibrary\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindlibrary\\igenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindlibrary\\igenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|solutionrelative:mastermindlibrary\\igenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindlibrary\\fixedgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindlibrary\\fixedgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|solutionrelative:mastermindlibrary\\fixedgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\latif\\AppData\\Local\\SourceServer\\1662cf57be66194cb840c7177e7bef92f2f460e27ddfbff8d02e2cf9758c4b45\\MastermindLibrary\\Giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindlibrary\\coloridellasequenza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindlibrary\\coloridellasequenza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E7F9539-49D2-4702-8425-26209B0043AB}|MastermindLibrary\\MastermindLibrary.csproj|solutionrelative:mastermindlibrary\\coloridellasequenza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindstep2\\profilo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindstep2\\profilo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\profilo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindstep2\\profilo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindstep2\\profilo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\profilo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\latif\\desktop\\masterminddianna\\mastermind\\mastermindstep2\\regole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|c:\\users\\monia\\downloads\\mastermind\\mastermind\\mastermindstep2\\regole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AEA2DB1-4CAE-4286-9E59-502ACA614485}|MastermindStep2\\MastermindStep2.csproj|solutionrelative:mastermindstep2\\regole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -81,68 +81,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 15,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MastermindStep2\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\MainWindow.xaml",
               "RelativeToolTip": "MastermindStep2\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-27T22:30:57.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T22:30:57.051Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ColoriDellaSequenza.cs",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindLibrary\\ColoriDellaSequenza.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindLibrary\\ColoriDellaSequenza.cs",
               "RelativeDocumentMoniker": "MastermindLibrary\\ColoriDellaSequenza.cs",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindLibrary\\ColoriDellaSequenza.cs",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindLibrary\\ColoriDellaSequenza.cs",
               "RelativeToolTip": "MastermindLibrary\\ColoriDellaSequenza.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T22:18:26.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T22:18:26.859Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Giocatore.cs",
               "DocumentMoniker": "C:\\Users\\latif\\AppData\\Local\\SourceServer\\1662cf57be66194cb840c7177e7bef92f2f460e27ddfbff8d02e2cf9758c4b45\\MastermindLibrary\\Giocatore.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\1662cf57be66194cb840c7177e7bef92f2f460e27ddfbff8d02e2cf9758c4b45\\MastermindLibrary\\Giocatore.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\latif\\AppData\\Local\\SourceServer\\1662cf57be66194cb840c7177e7bef92f2f460e27ddfbff8d02e2cf9758c4b45\\MastermindLibrary\\Giocatore.cs",
               "ToolTip": "C:\\Users\\latif\\AppData\\Local\\SourceServer\\1662cf57be66194cb840c7177e7bef92f2f460e27ddfbff8d02e2cf9758c4b45\\MastermindLibrary\\Giocatore.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\1662cf57be66194cb840c7177e7bef92f2f460e27ddfbff8d02e2cf9758c4b45\\MastermindLibrary\\Giocatore.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\latif\\AppData\\Local\\SourceServer\\1662cf57be66194cb840c7177e7bef92f2f460e27ddfbff8d02e2cf9758c4b45\\MastermindLibrary\\Giocatore.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAD4vwwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T21:51:51.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T21:51:51.9Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Gioco.cs",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindLibrary\\Gioco.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindLibrary\\Gioco.cs",
               "RelativeDocumentMoniker": "MastermindLibrary\\Gioco.cs",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindLibrary\\Gioco.cs",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindLibrary\\Gioco.cs",
               "RelativeToolTip": "MastermindLibrary\\Gioco.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwD4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwDEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T21:02:38.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Gioco.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Gioco.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Gioco.xaml.cs",
               "RelativeDocumentMoniker": "MastermindStep2\\Gioco.xaml.cs",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Gioco.xaml.cs",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Gioco.xaml.cs",
               "RelativeToolTip": "MastermindStep2\\Gioco.xaml.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAWwGYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwHgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T21:01:31.605Z",
               "EditorCaption": ""
@@ -151,123 +152,116 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Sconfitta.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Sconfitta.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Sconfitta.xaml.cs",
               "RelativeDocumentMoniker": "MastermindStep2\\Sconfitta.xaml.cs",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Sconfitta.xaml.cs",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Sconfitta.xaml.cs",
               "RelativeToolTip": "MastermindStep2\\Sconfitta.xaml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAhwBYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T23:04:29.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T23:04:29.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MastermindStep2\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\MainWindow.xaml.cs",
               "RelativeToolTip": "MastermindStep2\\MainWindow.xaml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAIAywCcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T20:56:55.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T20:56:55.555Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "FixedGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindLibrary\\FixedGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindLibrary\\FixedGenerator.cs",
               "RelativeDocumentMoniker": "MastermindLibrary\\FixedGenerator.cs",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindLibrary\\FixedGenerator.cs",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindLibrary\\FixedGenerator.cs",
               "RelativeToolTip": "MastermindLibrary\\FixedGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T22:56:20.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T22:56:20.742Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Vittoria.xaml",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Vittoria.xaml",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Vittoria.xaml",
               "RelativeDocumentMoniker": "MastermindStep2\\Vittoria.xaml",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Vittoria.xaml",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Vittoria.xaml",
               "RelativeToolTip": "MastermindStep2\\Vittoria.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-27T23:04:02.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T23:04:02.803Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Vittoria.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Vittoria.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Vittoria.xaml.cs",
               "RelativeDocumentMoniker": "MastermindStep2\\Vittoria.xaml.cs",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Vittoria.xaml.cs",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Vittoria.xaml.cs",
               "RelativeToolTip": "MastermindStep2\\Vittoria.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T23:04:04.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T23:04:04.544Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Profilo.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Profilo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Profilo.xaml.cs",
               "RelativeDocumentMoniker": "MastermindStep2\\Profilo.xaml.cs",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Profilo.xaml.cs",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Profilo.xaml.cs",
               "RelativeToolTip": "MastermindStep2\\Profilo.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAIwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T20:53:34.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T20:53:34.817Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Test1.cs",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\TestMasterMindPT2\\Test1.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\TestMasterMindPT2\\Test1.cs",
               "RelativeDocumentMoniker": "TestMasterMindPT2\\Test1.cs",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\TestMasterMindPT2\\Test1.cs",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\TestMasterMindPT2\\Test1.cs",
               "RelativeToolTip": "TestMasterMindPT2\\Test1.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwG8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T20:52:28.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T20:52:28.996Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Profilo.xaml",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Profilo.xaml",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Profilo.xaml",
               "RelativeDocumentMoniker": "MastermindStep2\\Profilo.xaml",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Profilo.xaml",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Profilo.xaml",
               "RelativeToolTip": "MastermindStep2\\Profilo.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-27T20:53:30.187Z"
+              "WhenOpened": "2025-03-27T20:53:30.187Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Giocatore.cs",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindLibrary\\Giocatore.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindLibrary\\Giocatore.cs",
               "RelativeDocumentMoniker": "MastermindLibrary\\Giocatore.cs",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindLibrary\\Giocatore.cs",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindLibrary\\Giocatore.cs",
               "RelativeToolTip": "MastermindLibrary\\Giocatore.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T19:28:58.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T19:28:58.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Gioco.xaml",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Gioco.xaml",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Gioco.xaml",
               "RelativeDocumentMoniker": "MastermindStep2\\Gioco.xaml",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Gioco.xaml",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Gioco.xaml",
               "RelativeToolTip": "MastermindStep2\\Gioco.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-27T21:10:45.671Z",
@@ -277,40 +271,37 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Bot.cs",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindLibrary\\Bot.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindLibrary\\Bot.cs",
               "RelativeDocumentMoniker": "MastermindLibrary\\Bot.cs",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindLibrary\\Bot.cs",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindLibrary\\Bot.cs",
               "RelativeToolTip": "MastermindLibrary\\Bot.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAiwBkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T22:50:57.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T22:50:57.926Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "IGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindLibrary\\IGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindLibrary\\IGenerator.cs",
               "RelativeDocumentMoniker": "MastermindLibrary\\IGenerator.cs",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindLibrary\\IGenerator.cs",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindLibrary\\IGenerator.cs",
               "RelativeToolTip": "MastermindLibrary\\IGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T22:59:10.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T22:59:10.359Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Regole.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Regole.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Regole.xaml.cs",
               "RelativeDocumentMoniker": "MastermindStep2\\Regole.xaml.cs",
-              "ToolTip": "C:\\Users\\latif\\Desktop\\MasterMindDIANNA\\Mastermind\\MastermindStep2\\Regole.xaml.cs",
+              "ToolTip": "C:\\Users\\monia\\Downloads\\Mastermind\\Mastermind\\MastermindStep2\\Regole.xaml.cs",
               "RelativeToolTip": "MastermindStep2\\Regole.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAIwCQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T20:55:58.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T20:55:58.149Z"
             }
           ]
         }

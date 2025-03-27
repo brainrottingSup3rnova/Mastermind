@@ -70,3 +70,15 @@ C:\Users\latif\Desktop\MasterMindDIANNA\Mastermind\MastermindLibrary\obj\Debug\n
 C:\Users\latif\Desktop\MasterMindDIANNA\Mastermind\MastermindLibrary\obj\Debug\net8.0\refint\MastermindLibrary.dll
 C:\Users\latif\Desktop\MasterMindDIANNA\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.pdb
 C:\Users\latif\Desktop\MasterMindDIANNA\Mastermind\MastermindLibrary\obj\Debug\net8.0\ref\MastermindLibrary.dll
+C:\Users\monia\Downloads\Mastermind\Mastermind\MastermindLibrary\bin\Debug\net8.0\MastermindLibrary.deps.json
+C:\Users\monia\Downloads\Mastermind\Mastermind\MastermindLibrary\bin\Debug\net8.0\MastermindLibrary.dll
+C:\Users\monia\Downloads\Mastermind\Mastermind\MastermindLibrary\bin\Debug\net8.0\MastermindLibrary.pdb
+C:\Users\monia\Downloads\Mastermind\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monia\Downloads\Mastermind\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.AssemblyInfoInputs.cache
+C:\Users\monia\Downloads\Mastermind\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.AssemblyInfo.cs
+C:\Users\monia\Downloads\Mastermind\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.csproj.CoreCompileInputs.cache
+C:\Users\monia\Downloads\Mastermind\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.sourcelink.json
+C:\Users\monia\Downloads\Mastermind\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.dll
+C:\Users\monia\Downloads\Mastermind\Mastermind\MastermindLibrary\obj\Debug\net8.0\refint\MastermindLibrary.dll
+C:\Users\monia\Downloads\Mastermind\Mastermind\MastermindLibrary\obj\Debug\net8.0\MastermindLibrary.pdb
+C:\Users\monia\Downloads\Mastermind\Mastermind\MastermindLibrary\obj\Debug\net8.0\ref\MastermindLibrary.dll
